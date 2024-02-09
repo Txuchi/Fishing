@@ -24,7 +24,7 @@
   <article>
     <h2>Freshwater Fishing</h2>
 	
-	<a href="https://bassonline.com/freshwater-species/"> Link to Source </a>
+	<p><a href="https://bassonline.com/freshwater-species/"> Link to Source </a></p>
 	
     <figure>
       <img src="https://www.dnr.state.mn.us/sites/default/files/assets/mcv/2021/sep-oct/bass/bass_800.jpg?v=2021.08.27-14.44.27" alt="Freshwater Fishing">
